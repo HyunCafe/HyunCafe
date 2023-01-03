@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤹%20Welcome%20🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-**Actively Learning** 
+**Actively Learning**  
 [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
 
 
