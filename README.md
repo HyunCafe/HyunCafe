@@ -1,16 +1,25 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤹%20Welcome%20🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+&nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤹%20Welcome%20🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <br>
 
-**Actively Learning**  
-[![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
+<p align="center"> 
+<strong> Actively Learning </strong>
+</p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
 <br>
 
-**Plan to Learn**  
-[![My Skills](https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify)](https://skillicons.dev)
+<p align="center"> 
+<strong> Plan to  Learn </strong>
+</p>
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify)](https://skillicons.dev)
+
+<p align="center">
 <br>
 <img align="center" src="assests/lofi.gif" />
 <br>
+</p>
 
 <!--
 **Currently Learning**  
@@ -51,7 +60,9 @@
 2100fa Graph text and Line Color
 000000 Background Color
 -->
-[![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&border_color=0079fa&bg_color=000000&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&border_color=0079fa&bg_color=000000&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -59,5 +70,7 @@
 
 <br>
 
+<p align="center">
 <img align="center" src="assests/loficity.gif" />
 <br>
+</p>
