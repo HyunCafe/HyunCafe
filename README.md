@@ -1,20 +1,15 @@
-### Welcome to my Profile 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤹%20Welcome%20🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+
+**Actively Learning** 
+[![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
+
+
+**Plan to Learn**  
+[![My Skills](https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify)](https://skillicons.dev)
+
+
 <!--
-**HyunCafe/HyunCafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 **Currently Learning**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,16 +31,6 @@ Here are some ideas to get you started:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
-**Social**  
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 **Education**  
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -62,7 +47,7 @@ Here are some ideas to get you started:
 0079fa Border Color and Points
 2100fa Graph text and Line Color
 000000 Background Color
-
+-->
 
 [![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&border_color=0079fa&bg_color=000000&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
