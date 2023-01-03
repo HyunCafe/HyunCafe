@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 000000 Background Color
 
 
-[![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=2100fa&text_color=2100fa&iconcolor=0079fa&border_color=0079fa&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=2100fa&text_color=2100fa&iconcolor=0079fa&border_color=0079fa&bg_color=000000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity$20Graph&bg_color=000000&color=2100fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
