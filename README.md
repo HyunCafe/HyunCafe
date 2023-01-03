@@ -1,13 +1,16 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤹%20Welcome%20🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
+<br>
 
 **Actively Learning**  
 [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
-
+<br>
 
 **Plan to Learn**  
 [![My Skills](https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify)](https://skillicons.dev)
 
+<br>
+<img align="center" src="assests/lofi.gif" />
+<br>
 
 <!--
 **Currently Learning**  
@@ -48,7 +51,13 @@
 2100fa Graph text and Line Color
 000000 Background Color
 -->
-
 [![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&border_color=0079fa&bg_color=000000&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 [![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<img align="center" src="assests/loficity.gif" />
+<br>
