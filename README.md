@@ -38,7 +38,7 @@
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
@@ -52,10 +52,6 @@
   
   <a href="https://dev.to/hyuncafe" target="_blank">
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-</a> &nbsp;&nbsp;
-  
-  <a href="https://codepen.io/HyunCafe" target="_blank">
-    <img align="center" alt="My Codepen link" height="50" width="50" src="assests/codepenlogo.png"/>
 </a> &nbsp;&nbsp;
 </p> 
 <!--
