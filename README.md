@@ -1,16 +1,17 @@
-<h1 align="center">Hey, I'm Hyun Welcome to my Profile!</h1>   
-
-![](https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS)
-
+<h1 align="center">Hey, I'm Hyun Welcome to my Profile!</h1>
 <p align="center"> 
-<img src="assests/nightlife.gif" /> </p>
-<br>
+<img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+  </p>
+  
+<p align="center"> 
+<img src="assests/nightlife.gif" /> 
+  </p>
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong> </h2>
+  <h3> <strong> Actively Learning </strong> </h3>
   <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos">      
-<br> <br>
-  <h2> <strong> Plan to Learn </strong> </h2>
+<br> 
+  <h3> <strong> Plan to Learn </strong> </h3>
   <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
 </div>
 
