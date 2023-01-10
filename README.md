@@ -5,14 +5,18 @@
 
 <p align="center">
   <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="blank">
-    <img align="center" alt="github logo" height="50" width="50" src="https://img.icons8.com/nolan/512/github.png" />
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
   <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="https://img.icons8.com/nolan/2x/gmail.png" />
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
-<p> 
 
+  <a href="https://discord.gg/mewmewcafe" target="_blank">
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+</a> &nbsp;&nbsp;
+<p> 
+  
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p>
