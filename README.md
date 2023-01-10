@@ -1,26 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=30&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://discord.gg/mewmewcafe" target="_blank">
-    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-</a> &nbsp;&nbsp;
-<p> 
-  
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p>
-  
+
 <p align="center"> 
   <img src="assests/nightlife.gif" /> 
 </p>
@@ -37,7 +21,7 @@
 </p>
   
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img  src="assests/borderseperator.gif"></h2>
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="88%" alt="Trophy" align="middle"  /> <br> <br> <br>
   <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=false" height="150" alt="stats graph"  />
@@ -50,7 +34,30 @@
 <p align="center">
 <img src="assests/loficity.gif" /><br>
 </p>
+
+<img src="assests/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
   
+  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://discord.gg/mewmewcafe" target="_blank">
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+</a> &nbsp;&nbsp;
+  
+  <a href="https://dev.to/hyuncafe" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+</a> &nbsp;&nbsp;
+  
+  <a href="https://codepen.io/HyunCafe" target="_blank">
+    <img align="center" alt="My Codepen link" height="50" width="50" src="assests/codepenlogo.png"/>
+</a> &nbsp;&nbsp;
+</p> 
 <!--
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
