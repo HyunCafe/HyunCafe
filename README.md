@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <h3> <strong> Actively Learning </strong> </h3>
+  <h2> <strong> Actively Learning </strong> </h2>
   <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos"> <br> 
-  <h3> <strong> Plan to Learn </strong> </h3>
+  <h2> <strong> Plan to Learn </strong> </h2>
   <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
 </div>
 
@@ -20,12 +20,12 @@
 </p>
 
 <div align="center">
-<h3>Trophies</h3>
+<h2>Trophies</h2>
   <img width="88%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" align="middle"  />
  </div>
   
 <div align="center">
-  <h3> <strong> My Github Stats </strong> </h3>
+  <h2> <strong> My Github Stats </strong> </h2>
   <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=false" height="150" alt="stats graph"  />
 </div> <br>
