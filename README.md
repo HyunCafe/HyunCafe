@@ -5,8 +5,30 @@
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p>
 
+<div>
+<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="300" alt="HyunSun's Dev Card"/></a>
+</div>
+
+<h2 align="center"> I'm self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding! </h2>
+
+* 🌳 I’m currently learning Vanilla JavaScript! <br><br>
+
+
+* 🐾 I’m looking to network and make friends here! <br><br>
+
+
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+
+
+* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+
+
+* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+
+<h2></h2><br>
+
 <p align="center"> 
-  <img src="assests/nightlife.gif" /> 
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
 <div align="center">
@@ -17,7 +39,7 @@
 </div>
 
 <p align="center"><br>
-  <img align="center" src="assests/lofi.gif" /> <br>
+  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
 </p>
   
 <div align="center">
@@ -32,7 +54,7 @@
 <br>
 
 <p align="center">
-<img src="assests/loficity.gif" /><br>
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" /><br>
 </p>
 
 <img src="assests/borderseperator.gif">
