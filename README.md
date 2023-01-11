@@ -3,10 +3,10 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p>
+</p> <br>
 
 <div>
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="300" alt="HyunSun's Dev Card" style="max-width: 100%;" /></a>
+<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="300" alt="HyunSun's Dev Card" /></a>
 </div>
 
 <h2 align="center"> I'm self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding! </h2>
@@ -25,7 +25,7 @@
 
 * :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
-<h2></h2><br>
+<h2></h2><br><br>
 
 <p align="center"> 
   <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
