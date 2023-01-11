@@ -45,10 +45,8 @@
 
 [![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-
 <p align="center">
-<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" /><br>
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
 </p>
 
 <img src="assests/borderseperator.gif">
