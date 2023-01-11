@@ -60,15 +60,19 @@
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://discord.gg/mewmewcafe" target="_blank">
-    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-</a> &nbsp;&nbsp;
-  
   <a href="https://dev.to/hyuncafe" target="_blank">
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
 </a> &nbsp;&nbsp;
+  <a>
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+    <span>HyunSun#7206</span>
 </p> 
+
+
 <!--
+  <a href="https://discord.gg/mewmewcafe" target="_blank">
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+  <span>HyunSun#7206</span></a> &nbsp;&nbsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js)](https://skillicons.dev)
 <br>
