@@ -52,6 +52,10 @@
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 <p align="center">
+  <a href="www.linkedin.com/in/hyuncafe" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
   <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
