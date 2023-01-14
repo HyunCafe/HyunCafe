@@ -12,7 +12,7 @@ How to write a Good readme
 **Deployment**
 Creating a README on GitHub is a simple process. Here are the steps:
 
-Click the "Create new file" button located in the repository.
+Click the "Create new file" button located in a new github repository (your username).
 
 In the "Name your file" field, enter "README.md" (without the quotes).
 
