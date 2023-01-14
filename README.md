@@ -78,7 +78,7 @@ Your README will now be visible on the main page of your repository. -->
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/hyuncafe" target="_blank">
+  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
   
