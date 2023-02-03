@@ -33,17 +33,17 @@ Your README will now be visible on the main page of your repository. -->
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br> <br>
+* 🌳 I’m currently learning Vanilla JavaScript! <br> 
 Actively Going through:
   - The Odin Project: Fundamentals + Full Stack JavaScript
   - 100 Devs Learning with Leon
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br><br>
+  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+* 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br><br>
+* ☕ Interest: Cats, Coffee, and Coding. <br><br>
 
 * :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
