@@ -35,8 +35,8 @@ Your README will now be visible on the main page of your repository. -->
 
 * 🌳 I’m currently learning Vanilla JavaScript! <br> 
 Actively Going through:
+  - 100 Devs with Leon
   - The Odin Project: Fundamentals + Full Stack JavaScript
-  - 100 Devs Learning with Leon
   - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
