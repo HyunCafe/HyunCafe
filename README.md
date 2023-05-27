@@ -1,5 +1,5 @@
 <!-- My Readme Profile!
-I spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
+I have spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
 
 **Acknowledgements**
 Awesome Readme Templates
