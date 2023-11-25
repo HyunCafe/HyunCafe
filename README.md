@@ -33,7 +33,7 @@ Your README will now be visible on the main page of your repository! -->
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br> 
+* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
 Actively Going through:
   - 100 Devs with Leon
   - The Odin Project: Fundamentals + Full Stack JavaScript
