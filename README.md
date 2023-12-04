@@ -106,8 +106,4 @@ Actively Going through:
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
 </a> &nbsp;&nbsp;
   <a>
-       <a href="https://discord.gg/sEmsVmdH2C" target="_blank">
-    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>HyunSun#7206</span>
-      </a>
 </p> 
