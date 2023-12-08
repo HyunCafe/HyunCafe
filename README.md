@@ -55,7 +55,7 @@ Actively Going through:
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js, react" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=py,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
 </div>
