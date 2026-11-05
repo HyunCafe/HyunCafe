@@ -46,10 +46,10 @@
   <text x="88" y="30" font-family="Consolas,Menlo,monospace" font-size="15" fill="#9DB4D3">hyuncafe / project-log</text>
   <text x="927" y="30" font-family="Consolas,Menlo,monospace" font-size="12" fill="#7897B8" text-anchor="end">[ PERSONAL PROJECTS ]</text>
   <!-- Identity and positioning -->
-  <text x="32" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#blue)">HYUNCAFE</text>
-  <text x="270" y="101" font-family="Consolas,Menlo,monospace" font-size="19" fill="#97B3D8">// PROJECT LOG</text>
-  <text x="34" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#E0EAF7">Cats, coffee, and curious projects.</text>
-  <text x="34" y="170" font-family="Consolas,Menlo,monospace" font-size="16" fill="#88BFFF">&gt; Hobbyist | AI-assisted building | Still learning</text>
+  <text x="32" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#blue)">PROJECTS</text>
+  <text x="270" y="101" font-family="Consolas,Menlo,monospace" font-size="19" fill="#97B3D8">// WHAT I'VE BEEN BUILDING</text>
+  <text x="34" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#E0EAF7">Small projects, useful tools, and plenty of tinkering.</text>
+  <text x="34" y="170" font-family="Consolas,Menlo,monospace" font-size="16" fill="#88BFFF">&gt; Gaming tools | Open source | Automation</text>
   <line x1="34" y1="193" x2="693" y2="193" stroke="#345878" stroke-width="1"/>
   <!-- Deliberately framed as interests and workflows, not skill claims -->
   <rect x="34" y="213" width="172" height="35" rx="8" fill="#213856" stroke="#4779AC"/>
