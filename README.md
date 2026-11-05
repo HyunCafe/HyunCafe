@@ -15,7 +15,10 @@ my learning journey, and the original artwork lives in assests/.
   </picture>
 
   <!-- The original live typing effect stays directly under the local banner. -->
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com/?font=Operator%20Mono&amp;size=22&amp;duration=2800&amp;pause=1600&amp;color=0079FA&amp;background=0B1120&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=56&amp;lines=Hey%2C%20I%27m%20Hyun%21%3BCats%2C%20coffee%20%26%20curious%20projects.%3BBuilding%20with%20AI%2C%20one%20idea%20at%20a%20time." />
   <img src="https://readme-typing-svg.demolab.com/?font=Operator%20Mono&amp;size=29&amp;duration=2800&amp;pause=1600&amp;color=0079FA&amp;background=0B1120&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=63&amp;lines=Hey%2C%20I%27m%20Hyun%21%20Welcome%20to%20my%20profile%21%3BCats%2C%20coffee%2C%20and%20curious%20projects.%3BBuilding%20hobby%20projects%20with%20AI." width="100%" alt="Animated typing: Hey, I'm Hyun! Welcome to my profile! Cats, coffee, and curious projects. Building hobby projects with AI." />
+  </picture>
 
   <img src="assests/borderseperator.gif" alt="" />
 
@@ -31,6 +34,19 @@ my learning journey, and the original artwork lives in assests/.
   </p>
 
 </div>
+
+<details>
+  <summary>☕ <strong>Open the café menu</strong> — a little map of this corner</summary>
+  <p align="center">
+    <a href="#things-ive-been-working-on">🎮 Recent projects</a>
+    &nbsp; · &nbsp;
+    <a href="#a-little-of-my-coding-journey">💻 Coding journey</a>
+    &nbsp; · &nbsp;
+    <a href="#my-github-analytics--activity">📊 GitHub activity</a>
+    &nbsp; · &nbsp;
+    <a href="#connect-with-me">🌙 Say hello</a>
+  </p>
+</details>
 
 <h2 align="center">
   Self-taught, curious, and <img src="assests/flamey.gif" width="30" alt="" /> still building <img src="assests/flamey.gif" width="30" alt="" />
@@ -65,29 +81,33 @@ Most of my recent projects started with something I wanted to fix or make easier
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🎮 <a href="https://github.com/HyunCafe/LocalGameImporter">Local Game Importer</a></strong>
+      <strong><img src="assests/icon-gamepad.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/LocalGameImporter">Local Game Importer</a></strong>
       <p>A Playnite extension that finds local Windows game launchers and lets you review what to import.</p>
       <sub>Playnite · AI-assisted</sub>
     </td>
     <td width="50%" valign="top">
-      <strong>🧩 <a href="https://github.com/HyunCafe/DuplicateReview">Duplicate Review</a></strong>
+      <strong><img src="assests/icon-duplicates.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/DuplicateReview">Duplicate Review</a></strong>
       <p>Helps spot duplicate and similar game titles in Playnite, with manual review instead of automatic hiding.</p>
       <sub>Library organization · AI-assisted</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>☕ <a href="https://github.com/HyunCafe/contribute-practice">Contribute Practice</a></strong>
+      <strong><img src="assests/icon-branch.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/contribute-practice">Contribute Practice</a></strong>
       <p>A beginner-friendly way to practice Git Bash, VS Code, and your first pull request. Started in 2023 and refreshed in 2026.</p>
       <sub>Open source · Beginner-friendly</sub>
     </td>
     <td valign="top">
-      <strong>🛠️ <a href="https://github.com/HyunCafe?tab=repositories">More tinkering</a></strong>
+      <strong><img src="assests/icon-spark.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe?tab=repositories">More tinkering</a></strong>
       <p>Older learning projects, little experiments, and whatever else I end up working on.</p>
       <sub>Personal projects · Experiments</sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="assests/after-hours-cafe.gif" width="660" alt="Animated lo-fi midnight workstation: a sleeping cat, warm lamp, coffee, game controller and neon skyline" />
+</p>
 
 <h2 align="center">A little of my coding journey</h2>
 
@@ -189,6 +209,10 @@ A few projects from those days:
   <a href="https://dev.to/hyuncafe" title="Dev.to profile">
     <img src="assests/devtologo.png" width="48" height="48" alt="Dev.to" />
   </a>
+
+  <p>
+    <img src="assests/neon-bonsai.svg" width="235" alt="Pixel-art bonsai and amber lantern glowing beneath a small neon moon" />
+  </p>
 
 </div>
 

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="t"><title id="t">Pixel duplicate cards</title>
+<rect x="1" y="1" width="30" height="30" rx="6" fill="#0B1120" stroke="#4675A7" stroke-width="1.5"/>
+<rect x="5" y="5" width="15" height="17" rx="2" fill="#202B4B" stroke="#7D7EFF" stroke-width="1.8"/>
+<rect x="12" y="11" width="15" height="17" rx="2" fill="#24456A" stroke="#85D5FF" stroke-width="1.8"/>
+<path d="M17 17h6m-6 4h6" stroke="#B1E6FF" stroke-width="1.8"/>
+</svg>

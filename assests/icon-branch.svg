@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="t"><title id="t">Pixel branching commit</title>
+<rect x="1" y="1" width="30" height="30" rx="6" fill="#0B1120" stroke="#4675A7" stroke-width="1.5"/>
+<path d="M11 8v13h10V12" fill="none" stroke="#86D4FF" stroke-width="2.5"/>
+<path d="M17 9l4 4 4-4" stroke="#AA96FF" stroke-width="2" fill="none"/>
+<rect x="8" y="6" width="6" height="6" rx="1" fill="#0079FA" stroke="#BBDFFF"/>
+<rect x="8" y="19" width="6" height="6" rx="1" fill="#0079FA" stroke="#BBDFFF"/>
+<rect x="18" y="21" width="6" height="6" rx="1" fill="#A093FF" stroke="#C3B9FF"/>
+</svg>
