@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" role="img" aria-labelledby="title description">
   <title id="title">HyunCafe — mobile project log</title>
-  <desc id="description">A compact neon-blue project log with a night-city skyline and coffee cup, introducing HyunCafe's hobby projects, Playnite tools, open source work and AI-assisted building.</desc>
+  <desc id="description">A compact neon-blue project log with a night-city skyline and retro game controller, introducing HyunCafe's hobby projects, Playnite tools, open source work and AI-assisted building.</desc>
   <defs>
     <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1120"/>
@@ -22,10 +22,13 @@
     <path d="M340 311v-55h17v-29h20v17h20v-49h18v25h17v-37h24v128z" fill="#213A59"/>
     <path d="M354 270h9m19-27h8m12 15h8m26-42h8m13-11h6" stroke="#5AA7E4" stroke-opacity="0.65" stroke-width="3"/>
     <circle cx="424" cy="117" r="3" fill="#8FCCFF" opacity="0.7"/>
-    <path d="M410 141q-10-9 0-18m14 18q-10-9 0-18" fill="none" stroke="#8FCCFF" stroke-opacity="0.6" stroke-width="2"/>
-    <rect x="397" y="145" width="43" height="42" rx="6" fill="#274260" stroke="#8FC2F8" stroke-width="2.5"/>
-    <path d="M440 153h8q14 0 0 23h-8" fill="none" stroke="#8FC2F8" stroke-width="4"/>
-    <path d="M400 192h48" stroke="#8FC2F8" stroke-width="3" stroke-linecap="round"/>
+    <!-- Compact neon controller, distinct from the header's cat. -->
+    <ellipse cx="425" cy="157" rx="51" ry="38" fill="#2100FA" opacity=".12"/>
+    <path d="M394 145q3-13 19-13h24q16 0 20 13l13 25q5 13-6 17q-7 2-15-5l-12-9h-26l-12 9q-9 8-16 4q-8-5-3-17Z" fill="#253E61" stroke="#8AC9FF" stroke-width="2.8" stroke-linejoin="round"/>
+    <path d="M396 153h22m-11-11v22" stroke="#8BD6FF" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="440" cy="147" r="4" fill="#A39BFF"/>
+    <circle cx="450" cy="158" r="4" fill="#5DBBFF"/>
+    <path d="M418 168h6m5 0h6" stroke="#BED4FA" stroke-width="2.5" stroke-linecap="round"/>
   </g>
   <circle cx="22" cy="23" r="5" fill="#F7768E"/>
   <circle cx="40" cy="23" r="5" fill="#E0AF68"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title description">
   <title id="title">HyunCafe — project log</title>
-  <desc id="description">A dark midnight-blue terminal card introducing HyunCafe's hobby projects, AI-assisted building, Playnite tools, and open source contributions, with a tiny coffee cup and pixel city skyline.</desc>
+  <desc id="description">A dark midnight-blue terminal card introducing HyunCafe's hobby projects, AI-assisted building, Playnite tools, and open source contributions, with a retro game controller and pixel city skyline.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1120"/>
@@ -32,12 +32,15 @@
     <circle cx="868" cy="74" r="2" fill="#A7BFFF" opacity=".8"/>
     <circle cx="740" cy="118" r="2" fill="#9DD5FF" opacity=".55"/>
     <path d="M716 98h20M726 88v20" stroke="#6C9DDB" stroke-width="1.6" opacity=".5"/>
-    <!-- A small, original coffee illustration -->
-    <path d="M844 117c-13-12 13-14 0-27M863 116c-13-12 13-14 0-27" fill="none" stroke="#8DC5FF" stroke-width="3" stroke-linecap="round" opacity=".55"/>
-    <rect x="822" y="124" width="63" height="66" rx="7" fill="#233854" stroke="#89BAEF" stroke-width="3"/>
-    <path d="M885 137h11c22 0 22 32-1 32h-10" stroke="#89BAEF" stroke-width="7" fill="none"/>
-    <path d="M831 197h66" stroke="#93B5DB" stroke-width="5" stroke-linecap="round"/>
-    <path d="M845 149v14m-7-7h14" stroke="#61B4FF" stroke-width="3" stroke-linecap="round"/>
+    <!-- Original retro game controller, matching the Playnite project theme. -->
+    <ellipse cx="855" cy="169" rx="75" ry="56" fill="#2100FA" opacity=".11"/>
+    <path d="M810 145q5-18 27-18h36q23 0 30 18l17 38q7 18-7 23q-10 4-21-6l-17-15h-43l-18 15q-11 11-21 5q-13-8-6-25Z" fill="#233854" stroke="#86C5FF" stroke-width="3.4" stroke-linejoin="round"/>
+    <path d="M819 157h32m-16-16v32" stroke="#8BD7FF" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="879" cy="148" r="6" fill="#A39BFF"/>
+    <circle cx="891" cy="161" r="6" fill="#5DBBFF"/>
+    <circle cx="867" cy="161" r="5" fill="#4E75F8"/>
+    <path d="M848 181h8m11 0h8" stroke="#B3C9F6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M812 198q3 6 9 6m80-6q4 5 9 4" stroke="#C4DDFD" stroke-opacity=".5" stroke-width="2" fill="none" stroke-linecap="round"/>
   </g>
   <!-- Terminal title bar -->
   <circle cx="28" cy="25" r="5.4" fill="#F7768E"/>

@@ -11,7 +11,7 @@ my learning journey, and the original artwork lives in assests/.
 
   <picture>
     <source media="(max-width: 600px)" srcset="assests/profile-banner-mobile.svg" />
-    <img src="assests/profile-banner.svg" width="100%" alt="HyunCafe welcome banner: midnight-blue terminal, electric blue and violet accents, coffee and a pixel city skyline" />
+    <img src="assests/profile-banner.svg" width="100%" alt="HyunCafe welcome banner: midnight-blue terminal, electric blue and violet accents, a cat under the moon and a pixel city skyline" />
   </picture>
 
   <!-- The original live typing effect stays directly under the local banner. -->
@@ -58,7 +58,7 @@ Most of my recent projects started with something I wanted to fix or make easier
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assests/project-log-mobile.svg" />
-    <img src="assests/project-log.svg" width="100%" alt="HyunCafe's neon-blue project log: hobby projects, AI-assisted building, Playnite tools, open source, and automation" />
+    <img src="assests/project-log.svg" width="100%" alt="HyunCafe's neon-blue project log with gaming controller: Playnite tools, open source, and automation" />
   </picture>
 </p>
 
@@ -135,23 +135,36 @@ A few projects from those days:
 
 <div align="center">
 
-  <h2>My GitHub Activity</h2>
+  <h2>My GitHub Analytics &amp; Activity</h2>
   <img src="assests/borderseperator.gif" alt="" />
 
+  <!-- Five summary cards in the same arrangement as gOOvER, with HyunCafe's colors. -->
   <p>
     <a href="https://github.com/HyunCafe?tab=overview">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="100%" alt="Public GitHub profile activity summary in electric blue and violet" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="100%" alt="HyunCafe's GitHub profile summary and contributions across the last year" />
+    </a>
+  </p>
+
+  <!-- Natural line wrapping keeps paired cards readable on narrow screens. -->
+  <p>
+    <a href="https://github.com/HyunCafe?tab=repositories">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="410" alt="Top languages represented in HyunCafe's public repositories" />
+    </a>
+    <a href="https://github.com/HyunCafe?tab=repositories">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="410" alt="Top languages represented in HyunCafe's public commits" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/HyunCafe?tab=repositories">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="440" alt="Public GitHub project statistics" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="410" alt="HyunCafe's public GitHub repository, contribution, issue and pull request statistics" />
     </a>
-    <img src="https://streak-stats.demolab.com/?user=HyunCafe&amp;hide_border=true&amp;border_radius=0&amp;ring=0079FA&amp;fire=2100FA&amp;currStreakNum=0079FA&amp;dates=BFD9FF&amp;sideNums=0079FA&amp;currStreakLabel=0079FA&amp;stroke=2100FA&amp;sideLabels=BFD9FF&amp;background=0B1120" width="440" alt="GitHub contribution streaks in matching midnight-blue colors" />
+    <a href="https://github.com/HyunCafe?tab=overview">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load&amp;timeZone=UTC" width="410" alt="Public GitHub commits by UTC hour, not a time-tracking estimate" />
+    </a>
   </p>
 
-  <sub>Just a snapshot of GitHub activity. <a href="https://github.com/HyunCafe?tab=overview">View my full contribution history.</a></sub>
+  <sub>Language charts reflect project code, including AI-assisted projects. The hourly chart uses UTC.</sub>
 
 </div>
 
