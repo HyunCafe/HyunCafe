@@ -44,9 +44,42 @@ I use **AI as a coding partner** now. I bring the idea, work out what I want it 
 
 Most of my recent projects start with something I want to fix, simplify, or automate. These are **AI-assisted projects**: I guide the idea and behavior, work through the results, and use AI to help write and improve the code.
 
-* 🎮 **[Local Game Importer](https://github.com/HyunCafe/LocalGameImporter)** — A Playnite extension to discover and import locally installed Windows games, with review controls instead of blindly adding everything.
-* 🧩 **[Duplicate Review](https://github.com/HyunCafe/DuplicateReview)** — Another Playnite extension, this time for spotting duplicate and similar game titles without automatically hiding or deleting anything.
-* ☕ **[Contribute Practice](https://github.com/HyunCafe/contribute-practice)** — My beginner-friendly open-source practice project. Learn Git Bash, VS Code, and pull requests by making a real contribution. Originally started in 2023 and recently refreshed.
+<p align="center">
+  <a href="https://github.com/HyunCafe/LocalGameImporter"><img src="https://img.shields.io/badge/Playnite-Extensions-0079FA?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Playnite extensions" /></a>
+  <a href="https://github.com/HyunCafe?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-1A1B26?style=flat-square&amp;logo=github&amp;logoColor=white" alt="My GitHub projects" /></a>
+  <a href="https://github.com/HyunCafe/contribute-practice"><img src="https://img.shields.io/badge/Open%20Source-First%20Contributions-0079FA?style=flat-square&amp;logo=github&amp;logoColor=white" alt="My beginner-friendly open-source contribution project" /></a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/HyunCafe/LocalGameImporter">Local Game Importer</a></h3>
+      <p>A Playnite extension to discover and import locally installed Windows games, with review controls instead of blindly adding everything.</p>
+      <sub>Gaming tools · AI-assisted project</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/HyunCafe/DuplicateReview">Duplicate Review</a></h3>
+      <p>Another Playnite extension, this time for spotting duplicate and similar game titles without automatically hiding or deleting anything.</p>
+      <sub>Library organization · AI-assisted project</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>☕ <a href="https://github.com/HyunCafe/contribute-practice">Contribute Practice</a></h3>
+      <p>My beginner-friendly open-source practice project. Learn Git Bash, VS Code, and pull requests by making a real contribution. Started in 2023 and recently refreshed.</p>
+      <sub>Open source · Beginner-friendly</sub>
+    </td>
+    <td valign="top">
+      <h3>🛠️ How I like to build</h3>
+      <p>Start with a problem, work out the parts, build with AI, test the results, and keep refining until things actually work.</p>
+      <sub>Planning · Testing · Troubleshooting</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assests/project-log.svg" width="100%" alt="HyunCafe project log: hobbyist, AI-assisted building, Playnite tools, open source, and automation in a neon-blue lo-fi terminal scene" />
+</p>
 
 I'm interested in the whole process: understanding the problem, working out the structure, testing edge cases, fixing what breaks, and making the result easier for someone else to use.
 
@@ -90,6 +123,12 @@ Some of my newer projects use C# or Python with substantial AI help. That doesn'
   <h2>My GitHub Activity</h2>
 
   <img src="assests/borderseperator.gif" alt="" />
+
+  <p>
+    <a href="https://github.com/HyunCafe?tab=repositories">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyunCafe&amp;theme=tokyonight&amp;animation=load" width="480" alt="HyunCafe's public GitHub activity and project statistics in a dark TokyoNight card" />
+    </a>
+  </p>
 
   <p>
     <img src="https://streak-stats.demolab.com/?user=HyunCafe&amp;theme=highcontrast&amp;hide_border=true&amp;border_radius=0&amp;ring=0079FA&amp;fire=0079FA&amp;currStreakNum=0079FA&amp;dates=0079FA&amp;sideNums=0079FA&amp;currStreakLabel=0079FA&amp;stroke=0079FA&amp;sideLabels=0079FA" width="480" alt="HyunCafe's GitHub activity streak statistics" />
