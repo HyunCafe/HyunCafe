@@ -32,15 +32,20 @@
     <circle cx="868" cy="74" r="2" fill="#A7BFFF" opacity=".8"/>
     <circle cx="740" cy="118" r="2" fill="#9DD5FF" opacity=".55"/>
     <path d="M716 98h20M726 88v20" stroke="#6C9DDB" stroke-width="1.6" opacity=".5"/>
-    <!-- Original retro game controller, matching the Playnite project theme. -->
-    <ellipse cx="855" cy="169" rx="75" ry="56" fill="#2100FA" opacity=".11"/>
-    <path d="M810 145q5-18 27-18h36q23 0 30 18l17 38q7 18-7 23q-10 4-21-6l-17-15h-43l-18 15q-11 11-21 5q-13-8-6-25Z" fill="#233854" stroke="#86C5FF" stroke-width="3.4" stroke-linejoin="round"/>
-    <path d="M819 157h32m-16-16v32" stroke="#8BD7FF" stroke-width="6" stroke-linecap="round"/>
-    <circle cx="879" cy="148" r="6" fill="#A39BFF"/>
-    <circle cx="891" cy="161" r="6" fill="#5DBBFF"/>
-    <circle cx="867" cy="161" r="5" fill="#4E75F8"/>
-    <path d="M848 181h8m11 0h8" stroke="#B3C9F6" stroke-width="3" stroke-linecap="round"/>
-    <path d="M812 198q3 6 9 6m80-6q4 5 9 4" stroke="#C4DDFD" stroke-opacity=".5" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- High-contrast original retro controller: intended to remain legible at README width. -->
+    <ellipse cx="850" cy="169" rx="89" ry="67" fill="#2100FA" opacity=".18"/>
+    <ellipse cx="853" cy="169" rx="71" ry="53" fill="none" stroke="#69ABFF" stroke-width="2" opacity=".20"/>
+    <path d="M797 143q9-23 38-23h37q29 0 39 23l22 44q10 22-8 30q-14 7-27-6l-20-18h-49l-21 18q-16 13-28 4q-17-10-7-30Z" fill="#27476B" stroke="#BBE7FF" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M801 140q10-16 34-16h37q25 0 35 16" stroke="#69C9FF" stroke-width="2.8" fill="none" opacity=".60"/>
+    <rect x="810" y="154" width="42" height="11" rx="2.8" fill="#B7E6FF"/>
+    <rect x="826" y="138" width="11" height="43" rx="2.8" fill="#B7E6FF"/>
+    <circle cx="884" cy="143" r="7.8" fill="#B6A1FF"/>
+    <circle cx="902" cy="160" r="7.8" fill="#67CBFF"/>
+    <circle cx="866" cy="160" r="7.8" fill="#6790FF"/>
+    <circle cx="884" cy="178" r="7.8" fill="#A7D9FF"/>
+    <rect x="849" y="176" width="10" height="4" rx="2" fill="#BDE0FF"/>
+    <rect x="864" y="176" width="10" height="4" rx="2" fill="#BDE0FF"/>
+    <path d="M805 203q7 12 20 6m79-6q8 9 17 4" stroke="#92C6FF" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".6"/>
   </g>
   <!-- Terminal title bar -->
   <circle cx="28" cy="25" r="5.4" fill="#F7768E"/>

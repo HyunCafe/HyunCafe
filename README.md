@@ -57,8 +57,8 @@ Most of my recent projects started with something I wanted to fix or make easier
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assests/project-log-mobile.svg" />
-    <img src="assests/project-log.svg" width="100%" alt="HyunCafe's neon-blue project log with gaming controller: Playnite tools, open source, and automation" />
+    <source media="(max-width: 600px)" srcset="assests/project-log-mobile.svg?v=311-controller-refresh" />
+    <img src="assests/project-log.svg?v=311-controller-refresh" width="100%" alt="HyunCafe's neon-blue project log with gaming controller: Playnite tools, open source, and automation" />
   </picture>
 </p>
 
