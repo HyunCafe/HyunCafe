@@ -158,7 +158,7 @@ A few projects from those days:
   <h2>My GitHub Analytics &amp; Activity</h2>
   <img src="assests/borderseperator.gif" alt="" />
 
-  <!-- Five summary cards in the same arrangement as gOOvER, with HyunCafe's colors. -->
+  <!-- Five summary cards; language cards use weekly-refreshed local SVGs to align their segment colors with HyunCafe's theme. -->
   <p>
     <a href="https://github.com/HyunCafe?tab=overview">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="100%" alt="HyunCafe's GitHub profile summary and contributions across the last year" />
@@ -168,10 +168,10 @@ A few projects from those days:
   <!-- Natural line wrapping keeps paired cards readable on narrow screens. -->
   <p>
     <a href="https://github.com/HyunCafe?tab=repositories">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="410" alt="Top languages represented in HyunCafe's public repositories" />
+      <img src="assests/lang-repos-themed.svg" width="410" alt="Top languages represented in HyunCafe's public repositories" />
     </a>
     <a href="https://github.com/HyunCafe?tab=repositories">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="410" alt="Top languages represented in HyunCafe's public commits" />
+      <img src="assests/lang-commits-themed.svg" width="410" alt="Top languages represented in HyunCafe's public commits" />
     </a>
   </p>
 
