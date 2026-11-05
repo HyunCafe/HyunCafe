@@ -35,6 +35,7 @@ my learning journey, and the original artwork lives in assests/.
 
 </div>
 
+<!-- Café menu hidden for now.
 <details>
   <summary>☕ <strong>Open the café menu</strong> — a little map of this corner</summary>
   <p align="center">
@@ -47,6 +48,7 @@ my learning journey, and the original artwork lives in assests/.
     <a href="#connect-with-me">🌙 Say hello</a>
   </p>
 </details>
+-->
 
 <h2 align="center">
   Self-taught, curious, and <img src="assests/flamey.gif" width="30" alt="" /> still building <img src="assests/flamey.gif" width="30" alt="" />
@@ -56,13 +58,13 @@ Hey! I'm Hyun. I got into coding back in 2023 through [The Odin Project](https:/
 
 These days, I'm more of a **hobbyist**. I haven't kept up with writing code from scratch, so I'm pretty rusty with syntax, but a lot of the fundamentals I learned have stuck with me, especially how to think through problems and understand how different parts of a system work together.
 
-I use **AI as a coding partner** now, and it's honestly changed how I approach projects. I'm more involved in the planning, problem-solving, and decision-making side of things while AI handles most of the actual implementation. I like breaking ideas into smaller pieces, thinking through requirements and dependencies, identifying potential issues, and refining the approach when something doesn't quite make sense. I'm also pretty particular about testing things, preserving what already works, and making sure the end result is actually useful. It's a lot of back-and-forth, experimenting, troubleshooting, and improving things as I go. I still enjoy coding and learning, just in a different way than when I first started.
+I use **AI as a coding partner** now, and it's changed how I approach projects. I'm more involved in the planning, problem-solving, and decision-making side of things while AI handles most of the actual implementation. I like breaking ideas into smaller pieces, thinking through requirements and dependencies, identifying potential issues, and refining the approach when something doesn't quite make sense. I'm also pretty particular about testing things, preserving what already works, and making sure the end result is actually useful. It's a lot of back-and-forth, experimenting, troubleshooting, and improving things as I go. I still enjoy coding and learning, just in a different way than when I first started.
 
 * 🐾 **Around here:** Always happy to meet people, share ideas, and learn something new.
 * ☕ **Interests:** Cats, coffee, anime/manga, gacha and other games, Discord, Reddit, and a good lo-fi playlist.
 
 <p align="center">
-  <img src="assests/nightlife.gif" width="720" alt="Animated lo-fi nighttime scene" />
+  <img src="assests/nightlife.gif" width="560" alt="Animated lo-fi nighttime scene" />
 </p>
 
 ---
