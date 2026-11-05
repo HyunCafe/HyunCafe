@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title description">
+  <title id="title">HyunCafe — project log</title>
+  <desc id="description">A dark midnight-blue terminal card introducing HyunCafe's hobby projects, AI-assisted building, Playnite tools, and open source contributions, with a retro game controller and pixel city skyline.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="0.55" stop-color="#121A30"/>
+      <stop offset="1" stop-color="#101C32"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6BBFFF"/>
+      <stop offset="0.56" stop-color="#0079FA"/>
+      <stop offset="1" stop-color="#A39BFF"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#397DC4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#397DC4" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#5594E0" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect x="1" y="1" width="958" height="288" rx="18"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="958" height="288" rx="18" fill="url(#background)" stroke="#33577F" stroke-width="2"/>
+  <g clip-path="url(#rounded)">
+    <rect width="960" height="290" fill="url(#grid)"/>
+    <circle cx="827" cy="126" r="163" fill="url(#horizon)"/>
+    <rect x="0" y="49" width="960" height="1" fill="#2F4969"/>
+    <path d="M700 276v-37h23v-20h18v-35h25v16h17v-50h25v25h16v-48h25v42h13v-24h30v41h22v-24h22v114z" fill="#172941"/>
+    <path d="M724 242h7m13-25h7m27-11h7m0 24h7m18-44h7m21-31h7m15 55h8m18-10h8m16-5h8" stroke="#5AA7E4" stroke-width="3" opacity=".43"/>
+    <circle cx="806" cy="99" r="3" fill="#9DD5FF" opacity=".9"/>
+    <circle cx="868" cy="74" r="2" fill="#A7BFFF" opacity=".8"/>
+    <circle cx="740" cy="118" r="2" fill="#9DD5FF" opacity=".55"/>
+    <path d="M716 98h20M726 88v20" stroke="#6C9DDB" stroke-width="1.6" opacity=".5"/>
+    <!-- High-contrast original retro controller: intended to remain legible at README width. -->
+    <ellipse cx="850" cy="169" rx="89" ry="67" fill="#2100FA" opacity=".18"/>
+    <ellipse cx="853" cy="169" rx="71" ry="53" fill="none" stroke="#69ABFF" stroke-width="2" opacity=".20"/>
+    <path d="M797 143q9-23 38-23h37q29 0 39 23l22 44q10 22-8 30q-14 7-27-6l-20-18h-49l-21 18q-16 13-28 4q-17-10-7-30Z" fill="#27476B" stroke="#BBE7FF" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M801 140q10-16 34-16h37q25 0 35 16" stroke="#69C9FF" stroke-width="2.8" fill="none" opacity=".60"/>
+    <rect x="810" y="154" width="42" height="11" rx="2.8" fill="#B7E6FF"/>
+    <rect x="826" y="138" width="11" height="43" rx="2.8" fill="#B7E6FF"/>
+    <circle cx="884" cy="143" r="7.8" fill="#B6A1FF"/>
+    <circle cx="902" cy="160" r="7.8" fill="#67CBFF"/>
+    <circle cx="866" cy="160" r="7.8" fill="#6790FF"/>
+    <circle cx="884" cy="178" r="7.8" fill="#A7D9FF"/>
+    <rect x="849" y="176" width="10" height="4" rx="2" fill="#BDE0FF"/>
+    <rect x="864" y="176" width="10" height="4" rx="2" fill="#BDE0FF"/>
+    <path d="M805 203q7 12 20 6m79-6q8 9 17 4" stroke="#92C6FF" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".6"/>
+  </g>
+  <!-- Terminal title bar -->
+  <circle cx="28" cy="25" r="5.4" fill="#F7768E"/>
+  <circle cx="47" cy="25" r="5.4" fill="#E0AF68"/>
+  <circle cx="66" cy="25" r="5.4" fill="#9ECE6A"/>
+  <text x="88" y="30" font-family="Consolas,Menlo,monospace" font-size="15" fill="#9DB4D3">hyuncafe / project-log</text>
+  <text x="927" y="30" font-family="Consolas,Menlo,monospace" font-size="12" fill="#7897B8" text-anchor="end">[ PERSONAL PROJECTS ]</text>
+  <!-- Identity and positioning -->
+  <text x="32" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#blue)">PROJECTS</text>
+  <text x="270" y="101" font-family="Consolas,Menlo,monospace" font-size="19" fill="#97B3D8">// WHAT I'VE BEEN BUILDING</text>
+  <text x="34" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#E0EAF7">Small projects, useful tools, and plenty of tinkering.</text>
+  <text x="34" y="170" font-family="Consolas,Menlo,monospace" font-size="16" fill="#88BFFF">&gt; Gaming tools | Open source | Automation</text>
+  <line x1="34" y1="193" x2="693" y2="193" stroke="#345878" stroke-width="1"/>
+  <!-- Deliberately framed as interests and workflows, not skill claims -->
+  <rect x="34" y="213" width="172" height="35" rx="8" fill="#213856" stroke="#4779AC"/>
+  <text x="120" y="236" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#C5E2FF">PLAYNITE TOOLS</text>
+  <rect x="220" y="213" width="179" height="35" rx="8" fill="#213856" stroke="#4779AC"/>
+  <text x="309" y="236" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#C5E2FF">OPEN SOURCE</text>
+  <rect x="413" y="213" width="186" height="35" rx="8" fill="#213856" stroke="#4779AC"/>
+  <text x="506" y="236" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#C5E2FF">AUTOMATION</text>
+  <text x="34" y="273" font-family="Consolas,Menlo,monospace" font-size="13" fill="#7897B8">Plan  /  Build with AI  /  Test  /  Refine</text>
+</svg>

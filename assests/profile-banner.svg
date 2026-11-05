@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-labelledby="title desc">
+  <title id="title">HyunCafe, a little corner of GitHub</title>
+  <desc id="desc">Midnight-blue terminal-style welcome banner, electric blue and violet details, moonlit cat and pixel city skyline. The live typing welcome is directly below the banner.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#000000"/><stop offset="0.58" stop-color="#101527"/><stop offset="1" stop-color="#0B1120"/></linearGradient>
+    <linearGradient id="titlepaint" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#88CBFF"/><stop offset="0.57" stop-color="#0079FA"/><stop offset="1" stop-color="#886EFF"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#2100FA" stop-opacity="0.27"/><stop offset="1" stop-color="#2100FA" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#438CD6" stroke-opacity="0.11"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="898" height="238" rx="15"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="898" height="238" rx="15" fill="url(#night)" stroke="#315B91" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="240" fill="url(#grid)"/>
+    <ellipse cx="753" cy="102" rx="195" ry="158" fill="url(#glow)"/>
+    <path d="M678 239v-40h26v-25h20v10h19v-40h23v14h19v-33h19v16h24v-42h25v40h18v-19h35v119Z" fill="#1D2D49"/>
+    <path d="M701 203h10m12-17h10m25-28h9m29-19h9m25-16h9m25 42h10m28-31h10" stroke="#548BCB" stroke-width="3" opacity=".52"/>
+    <circle cx="761" cy="79" r="3" fill="#90CBFF" opacity="0.85"/>
+    <circle cx="842" cy="65" r="2" fill="#9074FF" opacity="0.8"/>
+    <!-- Original moonlit cat perched above the night-city rooftops. -->
+    <circle cx="824" cy="106" r="33" fill="#81BFFF" opacity=".22"/>
+    <path d="M831 78a27 27 0 1 0 25 40a27 27 0 0 1-25-40Z" fill="#B6DBFF" opacity=".90"/>
+    <path d="M782 194q-20 1-23-15q-1-8-11-10" fill="none" stroke="#7DBDFF" stroke-width="9" stroke-linecap="round" opacity=".85"/>
+    <path d="M788 144l2-25 23 14q12-3 24 1l20-16 1 29q17 18 13 38q-3 34-45 35q-45 0-48-32q-2-23 10-44Z" fill="#1B2A44" stroke="#8FC8FF" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M788 151l2-22 15 10m37 0 13-12v24" fill="none" stroke="#B1D9FF" stroke-width="2" opacity=".5"/>
+    <ellipse cx="809" cy="168" rx="3.8" ry="5.3" fill="#9AD8FF"/>
+    <ellipse cx="838" cy="168" rx="3.8" ry="5.3" fill="#9AD8FF"/>
+    <path d="M822 179l4 3 4-3" fill="none" stroke="#AABCF9" stroke-width="2" stroke-linecap="round"/>
+    <path d="M801 183l-17-4m17 9-16 3m47-8 17-4m-17 9 16 3" stroke="#7A9BC7" stroke-width="1.5" opacity=".7" stroke-linecap="round"/>
+  </g>
+  <circle cx="25" cy="25" r="5.5" fill="#F7768E"/><circle cx="45" cy="25" r="5.5" fill="#E0AF68"/><circle cx="65" cy="25" r="5.5" fill="#9ECE6A"/>
+  <text x="87" y="30" fill="#9BBDE5" font-family="Consolas,monospace" font-size="14">hyuncafe@github:~</text>
+  <text x="864" y="30" text-anchor="end" fill="#839CB9" font-family="Consolas,monospace" font-size="13">[ PERSONAL CORNER ]</text>
+  <path d="M1 49H899" stroke="#315B91" stroke-width="1.2"/>
+  <text x="38" y="116" fill="url(#titlepaint)" font-family="Segoe UI,Arial,sans-serif" font-size="63" font-weight="800" letter-spacing="1">HYUNCAFE</text>
+  <text x="40" y="153" fill="#D2E4FF" font-family="Segoe UI,Arial,sans-serif" font-size="20">Cats, coffee, and curious projects.</text>
+  <text x="41" y="182" fill="#A6BCE0" font-family="Consolas,monospace" font-size="16">hobby projects  /  gaming tools  /  open source</text>
+  <path d="M40 198H630" stroke="#315B91"/>
+  <text x="41" y="224" fill="#81B7FD" font-family="Consolas,monospace" font-size="14">A little coding, a lot of tinkering, and some AI along the way.</text>
+</svg>

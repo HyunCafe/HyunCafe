@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" role="img" aria-labelledby="title description">
+  <title id="title">HyunCafe — mobile project log</title>
+  <desc id="description">A compact neon-blue project log with a night-city skyline and retro game controller, introducing HyunCafe's hobby projects, Playnite tools, open source work and AI-assisted building.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#14253C"/>
+    </linearGradient>
+    <linearGradient id="heading" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#84C8FF"/>
+      <stop offset="0.8" stop-color="#0079FA"/>
+      <stop offset="1" stop-color="#B4ADFF"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#6D9FE3" stroke-opacity="0.09" stroke-width="1" fill="none"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="478" height="318" rx="16"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="478" height="318" rx="16" fill="url(#night)" stroke="#3A6692" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <rect width="480" height="320" fill="url(#grid)"/>
+    <path d="M340 311v-55h17v-29h20v17h20v-49h18v25h17v-37h24v128z" fill="#213A59"/>
+    <path d="M354 270h9m19-27h8m12 15h8m26-42h8m13-11h6" stroke="#5AA7E4" stroke-opacity="0.65" stroke-width="3"/>
+    <circle cx="424" cy="117" r="3" fill="#8FCCFF" opacity="0.7"/>
+    <!-- High-contrast mobile gamepad; positioned fully inside the right safe area. -->
+    <ellipse cx="416" cy="156" rx="60" ry="49" fill="#2100FA" opacity=".18"/>
+    <path d="M382 140q8-18 26-18h24q22 0 30 18l14 28q7 17-6 22q-10 3-18-6l-15-12h-27l-16 13q-12 9-20 3q-11-7-5-23Z" fill="#2A4A72" stroke="#BCE8FF" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="386" y="149" width="27" height="8" rx="2" fill="#B9EBFF"/>
+    <rect x="396" y="139" width="8" height="28" rx="2" fill="#B9EBFF"/>
+    <circle cx="439" cy="143" r="5.4" fill="#BAA5FF"/>
+    <circle cx="450" cy="154" r="5.4" fill="#76CDFF"/>
+    <circle cx="428" cy="154" r="5.4" fill="#688EFF"/>
+    <circle cx="439" cy="165" r="5.4" fill="#BDDBFF"/>
+    <path d="M415 170h7m5 0h7" stroke="#D2E7FF" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+  <circle cx="22" cy="23" r="5" fill="#F7768E"/>
+  <circle cx="40" cy="23" r="5" fill="#E0AF68"/>
+  <circle cx="58" cy="23" r="5" fill="#9ECE6A"/>
+  <text x="78" y="29" font-family="Consolas,monospace" font-size="15" fill="#B4C9E5">hyuncafe / projects</text>
+  <path d="M0 47h480" stroke="#365476" stroke-width="1"/>
+  <text x="24" y="105" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="800" fill="url(#heading)">PROJECTS</text>
+  <text x="26" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#E0EAF7">Small tools, useful projects.</text>
+  <text x="26" y="174" font-family="Consolas,monospace" font-size="18" fill="#96C7FF">&gt; Gaming tools / Open source</text>
+  <path d="M26 201h360" stroke="#375D82" stroke-width="1.5"/>
+  <rect x="25" y="217" width="190" height="35" rx="8" fill="#223C5D" stroke="#477CB1"/>
+  <text x="120" y="240" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" text-anchor="middle" fill="#D1E8FF">PLAYNITE TOOLS</text>
+  <rect x="228" y="217" width="179" height="35" rx="8" fill="#223C5D" stroke="#477CB1"/>
+  <text x="317" y="240" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" text-anchor="middle" fill="#D1E8FF">OPEN SOURCE</text>
+  <text x="26" y="289" font-family="Consolas,monospace" font-size="17" fill="#9DBAD9">Plan / Test / Refine</text>
+</svg>

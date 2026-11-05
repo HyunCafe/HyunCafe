@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="252" viewBox="0 0 480 252" role="img" aria-labelledby="title desc">
+  <title id="title">HyunCafe — welcome</title><desc id="desc">Compact midnight terminal profile banner using electric blue, violet, and a moonlit cat and city skyline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#000000"/><stop offset="1" stop-color="#0B1120"/></linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8AD2FF"/><stop offset="0.7" stop-color="#0079FA"/><stop offset="1" stop-color="#8E75FF"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#3676B7" stroke-opacity=".12" fill="none"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="478" height="250" rx="14"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="478" height="250" rx="14" stroke="#315B91" stroke-width="2" fill="url(#bg)"/>
+  <g clip-path="url(#frame)">
+    <rect width="480" height="252" fill="url(#grid)"/>
+    <path d="M347 245v-39h18v-21h18v10h16v-39h23v18h19v-44h25v115Z" fill="#1C3151"/>
+    <path d="M365 209h7m16-12h8m18-23h8m24-22h8" stroke="#5596DA" stroke-width="3" opacity=".58"/>
+    <!-- Mobile-specific moonlit cat: intentionally larger and cleaner. -->
+    <circle cx="430" cy="98" r="24" fill="#77B8FF" opacity=".24"/>
+    <path d="M429 80a18 18 0 1 0 19 25a18 18 0 0 1-19-25Z" fill="#AFD9FF"/>
+    <path d="M401 156q-11 0-13-12" stroke="#77B8FF" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <path d="M405 125l2-15 13 10q8-3 16 1l13-10v17q10 10 8 24q-3 21-29 21q-28 0-30-20q-2-16 7-28Z" fill="#1D2B48" stroke="#8AC6FF" stroke-width="2.6" stroke-linejoin="round"/>
+    <ellipse cx="417" cy="145" rx="2.5" ry="3.4" fill="#9FD8FF"/>
+    <ellipse cx="438" cy="145" rx="2.5" ry="3.4" fill="#9FD8FF"/>
+  </g>
+  <circle cx="22" cy="22" r="5" fill="#F7768E"/><circle cx="40" cy="22" r="5" fill="#E0AF68"/><circle cx="58" cy="22" r="5" fill="#9ECE6A"/>
+  <text x="76" y="27" fill="#A9C9ED" font-family="Consolas,monospace" font-size="14">hyuncafe@github:~</text>
+  <path d="M1 45H479" stroke="#315B91"/>
+  <text x="22" y="112" fill="url(#txt)" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="800">HYUNCAFE</text>
+  <text x="24" y="147" fill="#DAE9FC" font-family="Segoe UI,Arial,sans-serif" font-size="20">Cats, coffee &amp; curious projects.</text>
+  <text x="24" y="177" fill="#96BCF7" font-family="Consolas,monospace" font-size="17">Gaming tools / Open source</text>
+  <path d="M24 195H354" stroke="#375A82"/>
+  <text x="24" y="222" fill="#A9BEDC" font-family="Consolas,monospace" font-size="15">Hobbyist · Building with AI</text>
+</svg>

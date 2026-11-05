@@ -1,0 +1,44 @@
+name: Refresh HyunCafe language chart colors
+
+on:
+  # Weekly, avoiding unnecessary bot commits and hosted API requests.
+  schedule:
+    - cron: '17 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hyuncafe-language-graphics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'HyunCafe/HyunCafe' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout exact repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+      - name: Refresh public GitHub language charts (Python standard library)
+        run: python3 scripts/refresh_profile_language_cards.py --repo .
+      - name: Commit changed SVGs only
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REF_NAME" = 'main'
+          git add -- assests/lang-repos-themed.svg assests/lang-commits-themed.svg
+          if git diff --cached --quiet; then
+            echo 'No visual change; nothing to commit.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'chore: refresh profile language charts [skip ci]'
+          git push origin 'HEAD:main'

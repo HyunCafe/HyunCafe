@@ -1,109 +1,221 @@
-<!-- My Readme Profile!
-I have spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
+<!--
+My README profile!
+I've spent a lot of time putting this little corner of GitHub together.
+If you like something here, feel free to take inspiration and make it your own!
 
-**Acknowledgements**
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
-
-**Authors**
-@HyunCafe
-
-**Deployment**
-Creating a README on GitHub is a simple process. Here are the steps:
-
-Click the "Create new file" button located in a new github repository (your username).
-
-In the "Name your file" field, enter "README.md" (without the quotes).
-
-Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
-
-Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
-
-Your README will now be visible on the main page of your repository! -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
-
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
-
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
-
-* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
-
-* 🐾 I’m looking to network and make friends here! <br><br>
-
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
-
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
-
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
-
-<h2></h2><br>
-
-<p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
-</p>
+This is my current introduction. My older projects are still here as part of
+my learning journey, and the original artwork lives in assests/.
+-->
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+
+  <picture>
+    <source media="(max-width: 600px)" srcset="assests/profile-banner-mobile.svg" />
+    <img src="assests/profile-banner.svg" width="100%" alt="HyunCafe welcome banner: midnight-blue terminal, electric blue and violet accents, a cat under the moon and a pixel city skyline" />
+  </picture>
+
+  <!-- The original live typing effect stays directly under the local banner. -->
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com/?font=Operator%20Mono&amp;size=22&amp;duration=2800&amp;pause=1600&amp;color=0079FA&amp;background=0B1120&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=56&amp;lines=Hey%2C%20I%27m%20Hyun%21%3BCats%2C%20coffee%20%26%20curious%20projects.%3BBuilding%20with%20AI%2C%20one%20idea%20at%20a%20time." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Operator%20Mono&amp;size=29&amp;duration=2800&amp;pause=1600&amp;color=0079FA&amp;background=0B1120&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=63&amp;lines=Hey%2C%20I%27m%20Hyun%21%20Welcome%20to%20my%20profile%21%3BCats%2C%20coffee%2C%20and%20curious%20projects.%3BBuilding%20hobby%20projects%20with%20AI." width="100%" alt="Animated typing: Hey, I'm Hyun! Welcome to my profile! Cats, coffee, and curious projects. Building hobby projects with AI." />
+  </picture>
+
+  <img src="assests/borderseperator.gif" alt="" />
+
+  <p>
+    <a href="https://github.com/HyunCafe/LocalGameImporter"><img src="https://img.shields.io/badge/Playnite-Tools-0079FA?style=for-the-badge&amp;logo=windows&amp;logoColor=white&amp;labelColor=0B1120" alt="Playnite tools" /></a>
+    <a href="https://github.com/HyunCafe?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-2100FA?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1120" alt="GitHub projects" /></a>
+    <a href="https://github.com/HyunCafe/contribute-practice"><img src="https://img.shields.io/badge/Open%20Source-First%20Contributions-0079FA?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1120" alt="Beginner-friendly contributions" /></a>
+  </p>
+
+  <p>
+    <a href="https://github.com/HyunCafe?tab=followers"><img src="https://img.shields.io/github/followers/HyunCafe?label=Followers&amp;style=for-the-badge&amp;color=2100FA&amp;labelColor=0B1120&amp;logo=github&amp;logoColor=white" alt="GitHub followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=HyunCafe&amp;color=0079fa&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
+
 </div>
 
-<p align="center"><br>
-  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
-</p>
-  
-<div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+<details>
+  <summary>☕ <strong>Open the café menu</strong> — a little map of this corner</summary>
+  <p align="center">
+    <a href="#things-ive-been-working-on">🎮 Recent projects</a>
+    &nbsp; · &nbsp;
+    <a href="#a-little-of-my-coding-journey">💻 Coding journey</a>
+    &nbsp; · &nbsp;
+    <a href="#my-github-analytics--activity">📊 GitHub activity</a>
+    &nbsp; · &nbsp;
+    <a href="#connect-with-me">🌙 Say hello</a>
+  </p>
+</details>
 
-   <p>
-    <a href="https://www.codewars.com/users/HyunCafe">
-      <img src="https://github.r2v.ch/codewars?user=HyunCafe&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
+<h2 align="center">
+  Self-taught, curious, and <img src="assests/flamey.gif" width="30" alt="" /> still building <img src="assests/flamey.gif" width="30" alt="" />
+</h2>
+
+Hey! I'm Hyun. I got into coding back in 2023 through [The Odin Project](https://www.theodinproject.com/), where I spent months learning HTML, CSS, and JavaScript and building projects from scratch. I learned a lot, had fun with it, and made this profile along the way.
+
+These days, I'm more of a **hobbyist**. I haven't kept up with writing code from scratch, so I'm pretty rusty with syntax, but a lot of the fundamentals I learned have stuck with me, especially how to think through problems and understand how different parts of a system work together.
+
+I use **AI as a coding partner** now, and it's honestly changed how I approach projects. I'm more involved in the planning, problem-solving, and decision-making side of things while AI handles most of the actual implementation. I like breaking ideas into smaller pieces, thinking through requirements and dependencies, identifying potential issues, and refining the approach when something doesn't quite make sense. I'm also pretty particular about testing things, preserving what already works, and making sure the end result is actually useful. It's a lot of back-and-forth, experimenting, troubleshooting, and improving things as I go. I still enjoy coding and learning, just in a different way than when I first started.
+
+* 🐾 **Around here:** Always happy to meet people, share ideas, and learn something new.
+* ☕ **Interests:** Cats, coffee, anime/manga, gacha and other games, Discord, Reddit, and a good lo-fi playlist.
+
+<p align="center">
+  <img src="assests/nightlife.gif" width="720" alt="Animated lo-fi nighttime scene" />
+</p>
+
+---
+
+<h2 align="center">Things I've been working on</h2>
+
+Most of my recent projects started with something I wanted to fix or make easier in my own setup. Here are a few that made it onto GitHub.
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assests/project-log-mobile.svg?v=311-controller-refresh" />
+    <img src="assests/project-log.svg?v=311-controller-refresh" width="100%" alt="HyunCafe's neon-blue project log with gaming controller: Playnite tools, open source, and automation" />
+  </picture>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><img src="assests/icon-gamepad.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/LocalGameImporter">Local Game Importer</a></strong>
+      <p>A Playnite extension that finds local Windows game launchers and lets you review what to import.</p>
+      <sub>Playnite · AI-assisted</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><img src="assests/icon-duplicates.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/DuplicateReview">Duplicate Review</a></strong>
+      <p>Helps spot duplicate and similar game titles in Playnite, with manual review instead of automatic hiding.</p>
+      <sub>Library organization · AI-assisted</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><img src="assests/icon-branch.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/contribute-practice">Contribute Practice</a></strong>
+      <p>A beginner-friendly way to practice Git Bash, VS Code, and your first pull request. Started in 2023 and refreshed in 2026.</p>
+      <sub>Open source · Beginner-friendly</sub>
+    </td>
+    <td valign="top">
+      <strong><img src="assests/icon-spark.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe?tab=repositories">More tinkering</a></strong>
+      <p>Older learning projects, little experiments, and whatever else I end up working on.</p>
+      <sub>Personal projects · Experiments</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assests/after-hours-cafe.gif" width="660" alt="Animated lo-fi midnight workstation: a sleeping cat, warm lamp, coffee, game controller and neon skyline" />
+</p>
+
+<h2 align="center">A little of my coding journey</h2>
+
+<div align="center">
+
+  <h3>My 2023 foundations</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML-0079FA?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=0B1120" alt="HTML studied in 2023" />
+    <img src="https://img.shields.io/badge/CSS-0079FA?style=for-the-badge&amp;logo=css&amp;logoColor=white&amp;labelColor=0B1120" alt="CSS studied in 2023" />
+    <img src="https://img.shields.io/badge/JavaScript-2100FA?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=0B1120" alt="JavaScript studied in 2023" />
+    <img src="https://img.shields.io/badge/Git-0079FA?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=0B1120" alt="Git studied and used" />
+    <img src="https://img.shields.io/badge/GitHub-2100FA?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1120" alt="GitHub studied and used" />
+  </p>
+
+</div>
+
+A few projects from those days:
+
+* **[Calculator](https://github.com/HyunCafe/odin-calculator)** — JavaScript logic, UI design, and lots of debugging.
+* **[To-do App](https://github.com/HyunCafe/odin-todoapp)** — Planning modules, organizing features, and working through how different parts of an app interact.
+* **[Weather App](https://github.com/HyunCafe/odin-weatherapp)** — APIs, responsive design, and connecting data to an interface.
+* **[JavaScript Notes](https://github.com/HyunCafe/my-javascript-notes)** — The notes and practice exercises I kept while learning.
+
+<div align="center">
+
+  <h3>What I use these days</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Git%20Bash-0079FA?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white&amp;labelColor=0B1120" alt="Git Bash" />
+    <img src="https://img.shields.io/badge/VS%20Code-2100FA?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white&amp;labelColor=0B1120" alt="VS Code" />
+    <img src="https://img.shields.io/badge/PowerShell-0079FA?style=for-the-badge&amp;logo=powershell&amp;logoColor=white&amp;labelColor=0B1120" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/AI--Assisted%20Coding-2100FA?style=for-the-badge&amp;logo=openai&amp;logoColor=white&amp;labelColor=0B1120" alt="AI-assisted coding" />
+  </p>
+
+  <sub>Tools I use for hobby projects, not a claim of professional expertise.</sub>
+
+</div>
+
+<p align="center">
+  <img src="assests/lofi.gif" width="640" alt="Animated lo-fi scene with coffee and coding" />
+</p>
+
+---
+
+<div align="center">
+
+  <h2>My GitHub Analytics &amp; Activity</h2>
+  <img src="assests/borderseperator.gif" alt="" />
+
+  <!-- Five summary cards; language cards use weekly-refreshed local SVGs to align their segment colors with HyunCafe's theme. -->
+  <p>
+    <a href="https://github.com/HyunCafe?tab=overview">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="100%" alt="HyunCafe's GitHub profile summary and contributions across the last year" />
     </a>
   </p>
 
-  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=HyunCafe&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+  <!-- Natural line wrapping keeps paired cards readable on narrow screens. -->
+  <p>
+    <a href="https://github.com/HyunCafe?tab=repositories">
+      <img src="assests/lang-repos-themed.svg" width="410" alt="Top languages represented in HyunCafe's public repositories" />
+    </a>
+    <a href="https://github.com/HyunCafe?tab=repositories">
+      <img src="assests/lang-commits-themed.svg" width="410" alt="Top languages represented in HyunCafe's public commits" />
+    </a>
+  </p>
 
-  <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  <p>
+    <a href="https://github.com/HyunCafe?tab=repositories">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load" width="410" alt="HyunCafe's public GitHub repository, contribution, issue and pull request statistics" />
+    </a>
+    <a href="https://github.com/HyunCafe?tab=overview">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyunCafe&amp;theme=tokyonight&amp;title_color=0079FA&amp;text_color=BFD9FF&amp;bg_color=0B1120&amp;border_color=315B91&amp;icon_color=0079FA&amp;chart_color=2100FA&amp;animation=load&amp;timeZone=UTC" width="410" alt="Public GitHub commits by UTC hour, not a time-tracking estimate" />
+    </a>
+  </p>
 
-  <img src="https://github-readme-stats2-olive.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
+  <sub>Language charts reflect project code, including AI-assisted projects. The hourly chart uses UTC.</sub>
 
-[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 <p align="center">
-<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+  <img src="assests/loficity.gif" width="720" alt="Animated lo-fi nighttime city scene" />
 </p>
 
-<img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
+<div align="center">
 
-  <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-</a> &nbsp;&nbsp;
-  <a>
-</p> 
+  <img src="assests/borderseperator.gif" alt="" />
+
+  <h3>Connect With Me</h3>
+
+  <a href="https://github.com/HyunCafe" title="GitHub profile">
+    <img src="assests/githublogo.png" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hyuncafe/" title="LinkedIn profile">
+    <img src="assests/linkedinlogo.png" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/hyuncafe" title="Dev.to profile">
+    <img src="assests/devtologo.png" width="48" height="48" alt="Dev.to" />
+  </a>
+
+  <p>
+    <img src="assests/neon-bonsai.svg" width="235" alt="Pixel-art bonsai and amber lantern glowing beneath a small neon moon" />
+  </p>
+
+</div>
+
+<p align="center">
+  <sub>Thanks for stopping by! Feel free to look around, and if you like something here, take inspiration and make it your own.</sub>
+</p>

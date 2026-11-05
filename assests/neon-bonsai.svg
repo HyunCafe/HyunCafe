@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="168" viewBox="0 0 350 168" role="img" aria-labelledby="title desc">
+<title id="title">After-hours bonsai and lantern</title><desc id="desc">A small pixel-style bonsai with electric-blue and violet leaves beside a warm amber lantern beneath a moonlit sky.</desc>
+<defs><linearGradient id="night" x2="0" y2="1"><stop stop-color="#0B1120"/><stop offset="1" stop-color="#152542"/></linearGradient><radialGradient id="lamp"><stop stop-color="#E0AF68" stop-opacity="0.43"/><stop offset="1" stop-color="#E0AF68" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="348" height="166" rx="15" fill="url(#night)" stroke="#315B91" stroke-width="1.7"/>
+<path d="M17 145h316" stroke="#456B9C" stroke-width="2"/>
+<circle cx="59" cy="45" r="18" fill="#9DD8FF" opacity=".12"/><path d="M64 29a14 14 0 1 0 11 23a14 14 0 0 1-11-23Z" fill="#9CD8FF"/>
+<path d="M92 18h5m-3-3v6m218 38h4m-2-2v4" stroke="#A99EFF" stroke-width="2"/><rect x="109" y="37" width="3" height="3" fill="#BBD7FA"/><rect x="301" y="24" width="3" height="3" fill="#BBD7FA"/>
+<!-- Bonsai's square-shaped pot and branching trunk -->
+<path d="M115 121h112l-10 29h-92Z" fill="#243C63" stroke="#7CC8FF" stroke-width="3"/>
+<path d="M130 128h84" stroke="#A194FF" stroke-width="4"/><rect x="151" y="141" width="37" height="3" fill="#366CA8"/>
+<path d="M171 122V84L152 66m19 25 24-17m-24 16-8-24" stroke="#A6BCD4" stroke-width="8" stroke-linejoin="round" fill="none"/>
+<path d="M143 67h-25v-16h13v-12h38v10h19v17h-16v14h-29Z" fill="#2B76B5" stroke="#88D0FF" stroke-width="2"/>
+<path d="M173 55h19V41h31v11h18v19h-17v14h-42V70h-9Z" fill="#354FA0" stroke="#A59BFF" stroke-width="2"/>
+<path d="M120 50h35m38 4h23m-70 17h16m32-7h24" stroke="#8AD7FF" stroke-width="5" opacity=".85"/>
+<rect x="116" y="63" width="9" height="5" fill="#A6CAED"/><rect x="217" y="71" width="9" height="4" fill="#CAB5FF"/>
+<!-- Paper lantern; warm color makes the cobalt night feel inhabited -->
+<circle cx="287" cy="93" r="42" fill="url(#lamp)"/><path d="M286 44v31" stroke="#7CB9EE" stroke-width="2"/>
+<rect x="273" y="75" width="28" height="42" rx="4" fill="#E0AF68" stroke="#FFE0A4" stroke-width="2"/>
+<rect x="278" y="82" width="18" height="26" fill="#F9D898"/><path d="M287 80v30" stroke="#D28A54" stroke-width="3"/>
+<path d="M268 119h39" stroke="#826E91" stroke-width="3"/><rect x="282" y="121" width="9" height="4" fill="#8C9EC6"/>
+
+</svg>
