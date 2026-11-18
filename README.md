@@ -54,11 +54,13 @@ my learning journey, and the original artwork lives in assests/.
   Self-taught, curious, and <img src="assests/flamey.gif" width="30" alt="" /> still building <img src="assests/flamey.gif" width="30" alt="" />
 </h2>
 
-Hey! I'm Hyun. I got into coding back in 2023 through [The Odin Project](https://www.theodinproject.com/), where I spent months learning HTML, CSS, and JavaScript and building projects from scratch. I learned a lot, had fun with it, and made this profile along the way.
+Hey! I'm Hyun. I started learning to code toward the end of 2022 through [The Odin Project](https://www.theodinproject.com/), and spent much of 2023 working through HTML, CSS, and JavaScript, building projects from scratch, and learning through plenty of trial and error. I learned a lot, had fun with it, and made this profile along the way.
 
-These days, I'm more of a **hobbyist**. I haven't kept up with writing code from scratch, so I'm pretty rusty with syntax, but a lot of the fundamentals I learned have stuck with me, especially how to think through problems and understand how different parts of a system work together.
+These days, I'm more of a **hobbyist**. I don't write code from scratch nearly as often, so I'm a bit rusty with syntax, but a lot of what I learned during that time has stuck with me, especially how to think through problems and understand how different parts of a system work together.
 
 I use **AI as a coding partner** now, and it's changed how I approach projects. I'm more involved in the planning, problem-solving, and decision-making side of things while AI handles most of the actual implementation. I like breaking ideas into smaller pieces, thinking through requirements and dependencies, identifying potential issues, and refining the approach when something doesn't quite make sense. I'm also pretty particular about testing things, preserving what already works, and making sure the end result is actually useful. It's a lot of back-and-forth, experimenting, troubleshooting, and improving things as I go. I still enjoy coding and learning, just in a different way than when I first started.
+
+I've also started tinkering with **local LLMs**, learning more about how models, tools, and memory might work together in a private setup of my own. It's still early, and there's a lot I'm figuring out as I go.
 
 * 🐾 **Around here:** Always happy to meet people, share ideas, and learn something new.
 * ☕ **Interests:** Cats, coffee, anime/manga, gacha and other games, Discord, Reddit, and a good lo-fi playlist.
@@ -71,7 +73,7 @@ I use **AI as a coding partner** now, and it's changed how I approach projects. 
 
 <h2 align="center">Things I've been working on</h2>
 
-Most of my recent projects started with something I wanted to fix or make easier in my own setup. Here are a few that made it onto GitHub.
+Most of my recent projects started with something I wanted to fix or make easier in my own setup. Here are a few I've shared on GitHub, along with a couple I'm still working on.
 
 <p align="center">
   <picture>
@@ -83,29 +85,55 @@ Most of my recent projects started with something I wanted to fix or make easier
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><img src="assests/icon-gamepad.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/LocalGameImporter">Local Game Importer</a></strong>
-      <p>A Playnite extension that finds local Windows game launchers and lets you review what to import.</p>
-      <sub>Playnite · AI-assisted</sub>
+      <strong><img src="assests/icon-spark.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/SmartMetadataMatcher-Public">Smart Metadata Matcher</a></strong>
+      <p>A Playnite extension for reviewing tricky game matches and filling in missing artwork and metadata without mixing up platforms or editions.</p>
+      <sub>Playnite &middot; Public beta &middot; AI-assisted</sub>
     </td>
     <td width="50%" valign="top">
+      <strong><img src="assests/icon-branch.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/Continuity-Studio">Continuity Studio</a></strong>
+      <p>An early desktop-interface preview for mapping development folders, reviewing organization, and preparing AI coding-session handoffs.</p>
+      <sub>Development tools &middot; Early public preview &middot; AI-assisted</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><img src="assests/icon-gamepad.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/LocalGameImporter">Local Game Importer</a></strong>
+      <p>Finds local Windows game launchers and lets me review which games to add to my Playnite library.</p>
+      <sub>Playnite &middot; AI-assisted</sub>
+    </td>
+    <td valign="top">
       <strong><img src="assests/icon-duplicates.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/DuplicateReview">Duplicate Review</a></strong>
-      <p>Helps spot duplicate and similar game titles in Playnite, with manual review instead of automatic hiding.</p>
-      <sub>Library organization · AI-assisted</sub>
+      <p>Helps spot duplicate or similar game titles in Playnite, with manual review rather than automatically hiding anything.</p>
+      <sub>Library organization &middot; AI-assisted</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><img src="assests/icon-spark.svg" width="23" height="23" alt="" /> Chat Length Watch</strong>
+      <p>A browser extension I'm developing to keep track of long ChatGPT conversations and give a heads-up when a session is getting unwieldy.</p>
+      <sub>Browser extension &middot; In development - not publicly released</sub>
+    </td>
+    <td valign="top">
+      <strong><img src="assests/icon-gamepad.svg" width="23" height="23" alt="" /> PlatformNavigator</strong>
+      <p>A Playnite extension I'm experimenting with to make browsing a big library easier by grouping platforms into a dropdown.</p>
+      <sub>Playnite &middot; In development - not publicly released</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <strong><img src="assests/icon-branch.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/contribute-practice">Contribute Practice</a></strong>
-      <p>A beginner-friendly way to practice Git Bash, VS Code, and your first pull request. Started in 2023 and refreshed in 2026.</p>
-      <sub>Open source · Beginner-friendly</sub>
+      <p>A beginner-friendly way to practice Git Bash, VS Code, and a first pull request. Started in 2023 and refreshed in 2026.</p>
+      <sub>Open source &middot; Beginner-friendly</sub>
     </td>
     <td valign="top">
-      <strong><img src="assests/icon-spark.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe?tab=repositories">More tinkering</a></strong>
-      <p>Older learning projects, little experiments, and whatever else I end up working on.</p>
-      <sub>Personal projects · Experiments</sub>
+      <strong><img src="assests/icon-spark.svg" width="23" height="23" alt="" /> <a href="https://github.com/HyunCafe/odin-calculator">Calculator</a></strong>
+      <p>One of my earlier JavaScript projects, with UI design, debugging, and mobile fixes I worked through while learning.</p>
+      <sub>JavaScript &middot; Original learning project</sub>
     </td>
   </tr>
 </table>
+
+<p align="center"><a href="https://github.com/HyunCafe?tab=repositories">Browse all my repositories</a></p>
 
 <p align="center">
   <img src="assests/after-hours-cafe.gif" width="660" alt="Animated lo-fi midnight workstation: a sleeping cat, warm lamp, coffee, game controller and neon skyline" />
@@ -115,12 +143,12 @@ Most of my recent projects started with something I wanted to fix or make easier
 
 <div align="center">
 
-  <h3>My 2023 foundations</h3>
+  <h3>My 2022-2023 foundations</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/HTML-0079FA?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=0B1120" alt="HTML studied in 2023" />
-    <img src="https://img.shields.io/badge/CSS-0079FA?style=for-the-badge&amp;logo=css&amp;logoColor=white&amp;labelColor=0B1120" alt="CSS studied in 2023" />
-    <img src="https://img.shields.io/badge/JavaScript-2100FA?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=0B1120" alt="JavaScript studied in 2023" />
+    <img src="https://img.shields.io/badge/HTML-0079FA?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=0B1120" alt="HTML studied in late 2022 and 2023" />
+    <img src="https://img.shields.io/badge/CSS-0079FA?style=for-the-badge&amp;logo=css&amp;logoColor=white&amp;labelColor=0B1120" alt="CSS studied in late 2022 and 2023" />
+    <img src="https://img.shields.io/badge/JavaScript-2100FA?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=0B1120" alt="JavaScript studied in late 2022 and 2023" />
     <img src="https://img.shields.io/badge/Git-0079FA?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=0B1120" alt="Git studied and used" />
     <img src="https://img.shields.io/badge/GitHub-2100FA?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1120" alt="GitHub studied and used" />
   </p>
